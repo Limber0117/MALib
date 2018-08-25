@@ -1,5 +1,5 @@
 # MALib
-MALib is an open-source database that can be used to recommend new third-party libraries for mobile app development.
+MALib is an open-source dataset that can be used to recommend new third-party libraries for mobile app development.
 ## Content
 Similar to classical recommendation databases, MALib contains three table / files, namely Apks.csv, Libs.csv and Relation.csv respectively.
 
